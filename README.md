@@ -37,3 +37,10 @@ Here are some ideas to get you started:
 <!--interests
 Dev Launchers?
 seeking a software development job-->
+### Things I'm Interested in:
+- ⚙️ Machine learning
+- 🧠 Artificial intelligence
+- 📦 Object-oriented design
+- 📊 Data science
+- 📈 Data visualization
+- 🎮 Video games
