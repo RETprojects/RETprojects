@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 - 🎮 Video games
 <!--Dev Launchers?
 seeking a software development job-->
+
+---
+
+![Remi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RETprojects&count_private=true)
