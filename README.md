@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 - 🧠 Artificial intelligence
 - 📦 Object-oriented design
 - 📊 Data science
-- 📈 Data visualization
 - 🎮 Video games
 <!--Dev Launchers?
 seeking a software development job-->
