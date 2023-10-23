@@ -54,4 +54,4 @@ seeking a software development job-->
 ---
 
 ### Miscellaneous:
-[![@RETprojects's Holopin board](https://holopin.io/api/user/board?user=retprojects)](https://holopin.io/@retprojects)
+[![An image of @retprojects's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/retprojects)](https://holopin.io/@retprojects)
