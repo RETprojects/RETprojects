@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### Things I'm Interested in:
 - ⚙️ Machine learning
 - 🧠 Artificial intelligence
-- 📦 Object-oriented design
+- 📦 System design
 - 📊 Data science
 - 🎮 Game design and development
 <!--Dev Launchers?
