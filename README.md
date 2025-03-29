@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning machine learning techniques, including reinforcment learning & MDPs
+🌱 I’m currently learning machine learning techniques, including reinforcement learning & MDPs
 
 ---
 
