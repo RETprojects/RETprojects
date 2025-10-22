@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### Things I'm Interested in:
 - ⚙️ Machine learning
 - 🧠 Artificial intelligence
+- 🌍 Web development
 - 📦 System design
 - 📊 Data science
 - 🎮 Game design and development
