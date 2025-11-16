@@ -42,11 +42,18 @@ Here are some ideas to get you started:
 - JavaScript
 - React
 - TypeScript
+- Angular
 - HTML
 - CSS
 - MySQL
 - Git
 - Bash
+- Java
+- C
+- C++
+- C#
+- Swift
+- MIPS assembly
 
 ---
 
