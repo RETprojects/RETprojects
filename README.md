@@ -88,7 +88,8 @@ Here are some ideas to get you started:
 - 🧠 Artificial intelligence
 - 🌍 Web development
 - 📦 System design
-- 📊 Data science
+- 📊 Data science and visualization
+- 🔍 Research
 - 🎮 Game design and development
 <!--Dev Launchers?
 seeking a software development job-->
